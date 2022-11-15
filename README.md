@@ -1,4 +1,4 @@
-(![image](https://user-images.githubusercontent.com/104318680/201901871-147b6e0e-2b8a-4b8b-9671-bf4e2c465033.png)](https://Srishtichauhan5359.io)
+(![image]https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966)]
 <h1 align="center">Hi 👋, I'm Srishti Chauhan</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 
