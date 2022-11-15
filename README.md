@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif)](https://Srishtichauhan5359.io)
+[![MasterHead](![image](https://user-images.githubusercontent.com/104318680/201901871-147b6e0e-2b8a-4b8b-9671-bf4e2c465033.png)
+](https://Srishtichauhan5359.io)
 <h1 align="center">Hi 👋, I'm Srishti Chauhan</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 
