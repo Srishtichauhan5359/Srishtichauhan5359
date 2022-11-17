@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, App development, **
 
-- 💬 Ask me about **Machine Learning, R programming, python**
+- 💬 Ask me about **Machine Learning, App dev, python**
 
 - 📫 How to reach me **chauhansrishti4747@gmail.com**
 
