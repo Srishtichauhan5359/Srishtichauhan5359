@@ -1,7 +1,8 @@
 
 <img src="https://i.pinimg.com/originals/37/86/84/3786843c8b45ffdf68acc6baecab2d80.gif" 
      width="500" 
-     height="500" />
+     height="500"
+     align="right" />
 
 <h1 align="center">Hi 👋, I'm Srishti Chauhan</h1>
 <h3 align="center">A Girl who loves to try out new things! </h3>
