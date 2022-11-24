@@ -1,3 +1,4 @@
+<div)
 <img src="https://i.pinimg.com/originals/37/86/84/3786843c8b45ffdf68acc6baecab2d80.gif" 
      width="500" 
      height="500" />
@@ -10,7 +11,7 @@
 - 💬 Ask me about **Machine Learning, App dev, Artificial intelligence**
 
 - 📫 How to reach me **chauhansrishti4747@gmail.com**
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
