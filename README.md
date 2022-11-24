@@ -4,8 +4,8 @@
      height="500"
      align="right" />
 
-<h1 align="center">Hi 👋, I'm Srishti Chauhan</h1>
-<h3 align="center">A Girl who loves to try out new things! </h3>
+<h1 align="left">Hi 👋, I'm Srishti Chauhan</h1>
+<h3 align="left">A Girl who loves to try out new things! </h3>
 
 - 🌱 I’m currently learning **Deep Learning, App development, front end development  **
 
