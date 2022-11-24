@@ -3,7 +3,7 @@
      width="600" 
      height="600"
      border: solid 1px #CCC"
-     align="right" />
+     align="right" >
 
 <h1 align="center">Hi 👋, I'm Srishti Chauhan</h1>
 <h3 align="center">A Girl who loves to try out new things! </h3>
