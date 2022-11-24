@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFS4-taAqc/1IC_SnkKPT7srD2GPKSB8g/watch?utm_content=DAFS4-taAqc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >
+<img src="https://in.pinterest.com/pin/990651249260016083/" >
 
 <h1 align="center">Hi 👋, I'm Srishti Chauhan</h1>
 <h3 align="center">A Girl who loves to try out new things! </h3>
