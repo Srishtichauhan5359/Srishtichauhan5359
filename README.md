@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Data Science**
 
-- 💬 Ask me about **Machine Learning, App dev, AI  , Data Science**
+- 💬 Ask me about **Machine Learning, App dev, Artificial Intelligence   , Data Science**
 
 - 📫 How to reach me **chauhansrishti4747@gmail.com**
 
